@@ -3,7 +3,7 @@
 Scramble service accepts a text in query string and returns a scrambled version of it in JSON.
 
 ```
-  http://localhost:8000/scramble?text=Hello,%20world!
+  https://scramble-service.appspot.com/?text=Hello,%20world!
 ```
 
 and returns:
